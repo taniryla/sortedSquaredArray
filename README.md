@@ -1,0 +1,2 @@
+# sortedSquaredArray
+Created with CodeSandbox
